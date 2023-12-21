@@ -35,3 +35,15 @@ Before you begin, ensure you have the following installed on your machine:
    ```bash
    git clone https://github.com/uakk101/fixit.git
    ```
+
+## Customization
+
+Feel free to customize the template to meet your specific needs:
+
+Update content in src/pages for different sections. Modify styles using Tailwind CSS classes in the styles directory. Add additional pages or components as required for your plumbing services website.
+
+## Contributing
+
+We welcome contributions to improve the template! Follow these steps to contribute:
+
+Fork the repository. Create a new branch: git checkout -b feature/my-feature. Make your changes and commit them: git commit -m 'Add new feature'. Push to the branch: git push origin feature/my-feature. Submit a pull request.
