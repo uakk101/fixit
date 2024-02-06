@@ -1,9 +1,9 @@
 // NAVIGATION
 export const NAV_LINKS = [
   { href: '/', key: 'home', label: 'Home' },
-  { href: '/', key: 'how_fixit_work', label: 'How fixit Work?' },
   { href: '/', key: 'services', label: 'Services' },
-  { href: '/', key: 'pricing ', label: 'Pricing ' },
+  { href: '/', key: 'about_us', label: 'About Us' },
+  { href: '/', key: 'Careers ', label: 'Careers ' },
   { href: '/', key: 'contact_us', label: 'Contact Us' },
 ];
 
@@ -79,10 +79,12 @@ export const FOOTER_CONTACT_INFO = {
 export const SOCIALS = {
   title: 'Social',
   links: [
-    '/facebook.svg',
-    '/instagram.svg',
-    '/twitter.svg',
-    '/youtube.svg',
-    '/wordpress.svg',
+    { source: '/facebook.svg', ref: 'https://www.facebook.com/easygoingmep' },
+    { source: '/instagram.svg', ref: 'https://www.instagram.com/easygoingmep' },
+    { source: '/twitter.svg', ref: 'https://www.facebook.com/easygoingmep' },
+    { source: '/youtube.svg', ref: 'https://www.facebook.com/easygoingmep' },
+    { source: '/wordpress.svg', ref: 'https://wa.me/message/AI62MAVTEJYCG1' },
+
   ],
+
 };
